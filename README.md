@@ -8,17 +8,17 @@ Hi 👋, I'm Devin</h1>
 
 <p align="left"> <a href="https://twitter.com/dvink_" target="blank"><img src="https://img.shields.io/twitter/follow/dvink_?logo=twitter&style=for-the-badge" alt="dvink_" /></a> </p>
 
-- 🔭 I’m currently working on **FoodNotes**
+- 🔭 I’m currently working on **Panacea**
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 🤝 I’m looking for help with **Start ups and give feedback to others**
+- 🤝 I’m looking for help with **Start ups and get feedback from others**
 
-- 💬 Ask me about **Swift, Xcode, MacOS**
+- 💬 Ask me about **Swift, Xcode, MacOS, and Pokemon!**
 
 - 📫 How to reach me **DvnKiOS@gmail.com**
 
-- ⚡ Fun fact **I work in Pharmacy**
+- ⚡ Fun fact **I Love Old School Runescape and Nintendo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
